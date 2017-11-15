@@ -8,5 +8,6 @@ The useful tools for the development
 5. concfg (which can be installed by scoop in the terminal), it is used to custom the color theme of the termial
 6. Solorized (http://ethanschoonover.com/solarized)
 7. cmder (http://cmder.net/)
+8. Beyond Compare(http://www.scootersoftware.com/)
 
 it will continue...
