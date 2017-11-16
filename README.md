@@ -9,5 +9,6 @@ The useful tools for the development
 6. Solorized (http://ethanschoonover.com/solarized)
 7. cmder (http://cmder.net/)
 8. Beyond Compare(http://www.scootersoftware.com/)
+9. choco (https://chocolatey.org/)
 
 it will continue...
