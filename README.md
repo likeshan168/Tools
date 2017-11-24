@@ -11,5 +11,6 @@ The useful tools for the development
 8. Beyond Compare(http://www.scootersoftware.com/)
 9. choco (https://chocolatey.org/)
 10. https://www.tutorialspoint.com/codingground.htm (a good website)
+11. http://ondras.zarovi.cz/sql/demo/ (design the database online)
 
 it will continue...
