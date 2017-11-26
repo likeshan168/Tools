@@ -12,5 +12,7 @@ The useful tools for the development
 9. choco (https://chocolatey.org/)
 10. https://www.tutorialspoint.com/codingground.htm (a good website)
 11. http://ondras.zarovi.cz/sql/demo/ (design the database online)
+12. https://en.gravatar.com
+13. https://docs.segmentfault.com(http://devdocs.io/)
 
 it will continue...
