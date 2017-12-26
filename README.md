@@ -18,5 +18,6 @@ The useful tools for the development
 15. http://css3please.com/(css3 tool)
 16. https://turbo.net/
 17. http://www.iconfont.cn + https://icomoon.io (you will be happy to generate the web fonts)
+18. https://app.quicktype.io
 
 it will continue...
